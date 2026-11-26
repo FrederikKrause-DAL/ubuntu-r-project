@@ -6,5 +6,4 @@ gnmsnit<-mean(vector)
 
 print(gnmsnit)
 
-system("gitinit")
- 
+sd(vector)
